@@ -1,0 +1,19 @@
+$govuk-assets-path: "/assets/";
+
+
+@import "../node_modules/govuk-frontend/govuk/all";
+
+
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
